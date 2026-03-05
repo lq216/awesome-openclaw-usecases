@@ -85,6 +85,8 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 | [Market Research & Product Factory](usecases/market-research-product-factory.md) | Mine Reddit and X for real pain points using the Last 30 Days skill, then have OpenClaw build MVPs that solve them. |
 | [Pre-Build Idea Validator](usecases/pre-build-idea-validator.md) | Automatically scan GitHub, HN, npm, PyPI, and Product Hunt before building anything new — stop if the space is crowded, proceed if it's open. |
 | [Semantic Memory Search](usecases/semantic-memory-search.md) | Add vector-powered semantic search to your OpenClaw markdown memory files with hybrid retrieval and auto-sync. |
+| [arXiv Paper Reader](usecases/arxiv-paper-reader.md) | Read and analyze arXiv papers conversationally — fetch by ID, browse sections, compare abstracts, and get AI summaries. |
+| [LaTeX Paper Writing](usecases/latex-paper-writing.md) | Write and compile LaTeX papers conversationally with instant PDF preview — no local TeX installation needed. |
 
 ## Finance & Trading
 
